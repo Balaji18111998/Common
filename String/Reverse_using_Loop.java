@@ -18,5 +18,12 @@ public class Reverse_using_Loop
 		}
 		System.out.println("Reversed String is " + rev);
 	}
+	public void add()
+	{
+		int a=100;
+		int b=200;
+		int c=a+b;
+		System.out.println(c);
+	}
 
 }
