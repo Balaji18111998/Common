@@ -64,7 +64,7 @@ public class Common {
 	
 	public void log4jfile() {
 		
-		
+		int a=100;
         	PropertyConfigurator.configure("/Users/apple/eclipse-workspace/redbusmavn/lo4j.properties");	
 		
 		
